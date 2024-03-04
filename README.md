@@ -8,7 +8,7 @@ I am a senior computer engineering student with a strong interest and proficienc
 
 * 🌍  I'm based in Antalya
 * ✉️  You can contact me at [yildizahmethakan0@gmail.com](mailto:yildizahmethakan0@gmail.com)
-* 🧠  I'm learning TensorFlow, NumPY
+* 🧠  I'm learning Keras
 
 ### Skills
 
