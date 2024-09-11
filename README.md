@@ -1,4 +1,3 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Famd-vs-intel-which-desktop-processor-is-right-for-you%2F&psig=AOvVaw1ESHd7HEPXUWXfrgj7UOUx&ust=1726153241646000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi47YmUu4gDFQAAAAAdAAAAABAE](https://www.zdnet.com/a/img/resize/5d90db39dc1d955a5e1270ab2dc820ad3d287043/2021/10/19/950d5531-dd26-4189-a62a-50c09e174ff8/processors.jpg?auto=webp&width=1280))
 <h1 align="center">Hi 👋, I'm Ahmet Hakan Yıldız</h1>
 <h3 align="center">Backend Developer</h3>
 
