@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JsNnRuMWN2NmQyazhlajN1dzlwY3U2cjRmaXVnOTN4ZndvMjQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
@@ -47,8 +47,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yildizahmethakan0/yildizahmethakan0/output/pacman-contribution-graph-dark.svg">
